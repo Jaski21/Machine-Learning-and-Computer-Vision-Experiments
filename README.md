@@ -185,54 +185,6 @@ Run DeepLabV3 semantic segmentation:
 python cv-practice/deeplabv3_segmentation.py assets/images/interior.jpg
 ```
 
-## Example Outputs
-
-Add representative outputs from the experiments here.
-
-### Linear Regression
-
-```markdown
-![Linear Regression](path/to/linear-regression-output.png)
-```
-
-### ResNet Classification
-
-```markdown
-![ResNet Classification](path/to/resnet-output.png)
-```
-
-### DeepLabV3 Segmentation
-
-```markdown
-![Semantic Segmentation](path/to/segmentation-output.png)
-```
-
-## Learning Progression
-
-This repository documents a progression from numerical computing fundamentals to machine learning and computer vision:
-
-```text
-NumPy Fundamentals
-       ↓
-Array Operations & Broadcasting
-       ↓
-Data Filtering & Manipulation
-       ↓
-Linear Regression
-       ↓
-Gradient Descent
-       ↓
-Multiple Features
-       ↓
-Feature Scaling
-       ↓
-Image Preprocessing
-       ↓
-ResNet Image Classification
-       ↓
-DeepLabV3 Semantic Segmentation
-```
-
 The NumPy exercises establish the array manipulation and vectorized-computation fundamentals used in later experiments.
 
 The linear regression implementations then build on those foundations by explicitly implementing the cost function, gradients, and parameter updates used by gradient descent.
