@@ -67,10 +67,9 @@ ML-CV-Experiments/
 │   └── Slicing.py
 │
 ├── ml-experiments/
-│   └── linear-regression/
-│       ├── single_variable.py
-│       ├── multiple_variables.py
-│       └── multiple_variables_feature_scaling.py
+│   ├── single_variable.py
+│   ├── multiple_variables.py
+│   └── multiple_variables_feature_scaling.py
 │
 ├── cv-practice/
 │   ├── image_preprocessing.py
